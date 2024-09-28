@@ -1,9 +1,11 @@
+import Header from './components/Header/Header'
+
 import './App.css'
 
 function App() {
 
   return (
-    <h2>Welcome to my personal page</h2>
+    <Header />
   )
 }
 

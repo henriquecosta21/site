@@ -1,0 +1,25 @@
+.header {
+  width: 100vw;
+  color:#EEEDEB; 
+  background-color: #2F3645;
+}
+nav {
+  padding: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  gap: 16px;
+}
+
+ul > li {
+  
+}
+
+ul > li > a {
+  color: gray;
+}
